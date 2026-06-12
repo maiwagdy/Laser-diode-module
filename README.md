@@ -45,7 +45,7 @@ laser diode modules are extremely sensitive & will be damaged immediately by sta
 
 The above figure points the finger to another problem. We can often find a 33Ω (or so) current limiting resistor in 5V labeled laser diode modules. Anyway, the typical ratings of discrete laser diodes varies from model to model – If the operating voltage (VOP) of one laser diode is in **2.2V** to **2.7V**, the other one has a **2.1V** to **2.5V** range. The same slip applies to the operating current (IOP) range as well.
 
-![image](![alt text](image.png)) 
+![image alt](https://github.com/maiwagdy/Laser-diode-module/blob/5cd6e1a8ba78480283bad1e8cee5c32bc77b1112/Laser-Diode-Datasheet-Snip.jpg) 
 
 --> 650nm laser diode datasheet.
 
