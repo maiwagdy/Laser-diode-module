@@ -73,4 +73,4 @@ A collimating lens is an optical component that transforms divergent light rays 
 - Divergent Input: Light emitted from sources like LEDs spreads out in various directions.
 - The Refraction Process: The curved surface of the collimating lens bends these diverging rays so they exit traveling perfectly parallel to one another.
 
-![image](![alt text](image-2.png))
+![image alt](https://github.com/maiwagdy/Laser-diode-module/blob/d871e86b854915081f66e05947340a4e3802168e/laser-diode-collimator.webp)
