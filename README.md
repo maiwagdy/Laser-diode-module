@@ -8,7 +8,7 @@ A laser module is a self-contained unit that integrates a laser diode, built-in 
 This is the semiconductor component that generates the actual coherent light beam.
 Its **wavelength** is chosen according to the wanted application.
 
-![image](![alt text](image-1.png))
+![image alt](https://github.com/maiwagdy/Laser-diode-module/blob/58f0783f9fe809e590c5fe0ecd6c51ad97f51a20/visible-light-spectrum-infared-ultraviolet-optical-light-wavelength-electromagnetic-visible-color-spectrum-visible-light-248885963.webp)
 
 ### 2. IC driver 
 An IC driver is the most critical component in a laser module, works as the "brain & protector" of the laser diode. It actively regulates current to prevent thermal runaway, controls optical power output, enables high speed modulation for data or sensing, & prevents destruction from electrical spikes or overheating.
