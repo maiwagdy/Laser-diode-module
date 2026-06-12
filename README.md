@@ -41,7 +41,7 @@ Input & output **capacitors** (ceramic or electrolytic) smooth out voltage rippl
 ### 4. Resistors 
 laser diode modules are extremely sensitive & will be damaged immediately by static electricity and/or over voltage/current. So, don't connect the laser diode (module) to a power supply before you are sure that it’s ready to work with that voltage (& current) level.
 
-![image]![alt text](Laser-Diode-Resistor-1.jpg)
+![image alt](https://github.com/maiwagdy/Laser-diode-module/blob/d3bef25352860c4902c958cc716ec6fd07ca439c/Laser-Diode-Resistor.jpg)
 
 The above figure points the finger to another problem. We can often find a 33Ω (or so) current limiting resistor in 5V labeled laser diode modules. Anyway, the typical ratings of discrete laser diodes varies from model to model – If the operating voltage (VOP) of one laser diode is in **2.2V** to **2.7V**, the other one has a **2.1V** to **2.5V** range. The same slip applies to the operating current (IOP) range as well.
 
